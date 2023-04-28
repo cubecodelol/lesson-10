@@ -1,0 +1,101 @@
+body {
+    background-color: #FF04FFFF;
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+    height: 100vh;
+}
+
+nav {
+    margin: 5vh 10vw;
+}
+
+.main {
+    border: 0px solid black;
+    background-color: rgb(18, 5, 28);
+    height: 90vh;
+    width: 90vw;
+    border-radius: 30px;
+}
+
+.icon {
+    height: 3.5vh;
+}
+
+.nav a {
+    font-size: 12.5px;
+    color: #ffffff;
+    margin-top: 0.5vh;
+    font-weight: bolder;
+}
+
+.nava {
+    margin-right: 1.5vw;
+}
+
+.subscriber-button {
+    color: #ffffff;
+    border: 0px solid black;
+    border-radius: 30px;
+    background-color: #FF04FFFF;
+    padding: 0.75vh 1.75vw;
+    font-size: 12.5px;
+}
+
+.settings {
+    height: 4.5vh;
+    border: 1px solid #FF04FFFF;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 0.3vw;
+}
+
+.settings-button {
+    background-color: transparent;
+    border-width: 0px;
+}
+
+button:focus {
+    outline: none;
+}
+
+.hero {
+    height: 60vh;
+}
+
+.hero-portfolio {
+    color: white;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.hero-text .hero-work .colorful-text {
+    color: #FF04FFFF;
+}
+
+.hero-work {
+    color: white;
+    font-size: 42.5px;
+    font-weight: bolder;
+}
+
+.about-hero {
+    color: gray;
+    font-size: 15px;
+}
+
+.hero-photo {
+    height: 30vh;
+    border-radius: 20px;
+}
+
+.video {
+    color: #ffffff;
+    background-color: #FF04FFFF;
+    border: 0px solid black;
+    border-radius: 30px;
+    padding: 0.75vh 1.75vw;
+    font-size: 10px;
+    margin-top: 2.5vh;
+}
